@@ -1,0 +1,33 @@
+
+
+Download API- GET :
+localhost:8080/api/media/download?fileName=23f522fc-9240-42e6-9c9d-b9ab45c1ba12_thumbnails/thumb_istockphoto.jpeg.jpg
+
+Upload API POST:
+localhost:8080/api/media/upload
+
+
+MinIO Object Storage Server
+Copyright: 2015-2025 MinIO, Inc.
+License: GNU AGPLv3 - https://www.gnu.org/licenses/agpl-3.0.html
+Version: RELEASE.2025-05-24T17-08-30Z (go1.24.3 darwin/arm64)
+
+API: http://192.168.1.52:9000  http://127.0.0.1:9000
+   RootUser: minioadmin
+   RootPass: minioadmin
+
+WebUI: http://192.168.1.52:49874 http://127.0.0.1:49874
+   RootUser: minioadmin
+   RootPass: minioadmin
+
+
+
+   2. MinIO must be running locally
+
+   Make sure MinIO is running and accessible:
+
+   minio server /some/data/dir
+   Then confirm it works by visiting:
+   👉 http://localhost:9000
+   Login with minioadmin / minioadmin
+
