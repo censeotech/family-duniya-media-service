@@ -25,15 +25,8 @@ public class Media {
     private String fileName;
     private String fileType;
     private Long fileSize;
-
-    @Lob
     private String fileUrl;
-
-    @Lob
     private String fileThumbnailUrl;
-
     private LocalDateTime uploadedAt;
-
-    @Lob
     private String description;
 }

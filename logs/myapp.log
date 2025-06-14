@@ -1,42 +1,21 @@
-2025-06-08T00:50:12.436+05:30  WARN 9268 --- [family-tree-medea-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h17m7s590ms).
-2025-06-08T02:22:48.916+05:30  WARN 9268 --- [family-tree-medea-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h32m36s480ms).
-2025-06-08T03:39:48.617+05:30  WARN 9268 --- [family-tree-medea-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h16m59s701ms).
-2025-06-08T05:04:45.657+05:30  WARN 9268 --- [family-tree-medea-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h24m57s40ms).
-2025-06-08T06:36:08.052+05:30  WARN 9268 --- [family-tree-medea-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h31m22s395ms).
-2025-06-08T08:00:42.987+05:30  WARN 9268 --- [family-tree-medea-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h24m34s935ms).
-2025-06-08T09:03:02.724+05:30  WARN 9268 --- [family-tree-medea-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h2m19s737ms).
-2025-06-08T09:19:16.012+05:30  WARN 9268 --- [family-tree-medea-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m13s288ms).
-2025-06-08T09:28:45.083+05:30  WARN 9268 --- [family-tree-medea-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m29s70ms).
-2025-06-08T09:33:07.663+05:30  WARN 9268 --- [family-tree-medea-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m22s581ms).
-2025-06-08T09:37:23.600+05:30  WARN 9268 --- [family-tree-medea-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m15s936ms).
-2025-06-08T09:41:49.015+05:30  WARN 9268 --- [family-tree-medea-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m25s416ms).
-2025-06-08T10:36:52.128+05:30  WARN 9268 --- [family-tree-medea-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=55m3s113ms).
-2025-06-08T11:51:28.711+05:30  WARN 9268 --- [family-tree-medea-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h14m36s583ms).
-2025-06-08T13:06:49.101+05:30  WARN 9268 --- [family-tree-medea-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h15m20s390ms).
-2025-06-08T13:29:39.299+05:30  WARN 9268 --- [family-tree-medea-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=22m50s198ms).
-2025-06-08T14:07:53.513+05:30  WARN 9268 --- [family-tree-medea-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=38m14s214ms).
-2025-06-08T15:25:04.333+05:30  WARN 9268 --- [family-tree-medea-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h17m10s820ms).
-2025-06-08T17:10:43.132+05:30  WARN 9268 --- [family-tree-medea-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h45m38s799ms).
-2025-06-08T18:44:51.085+05:30  WARN 9268 --- [family-tree-medea-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h34m7s953ms).
-2025-06-08T19:12:23.836+05:30  WARN 9268 --- [family-tree-medea-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=27m32s750ms).
-2025-06-08T19:26:09.039+05:30  INFO 9268 --- [family-tree-medea-service] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
-2025-06-08T19:26:09.056+05:30  INFO 9268 --- [family-tree-medea-service] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
-2025-06-08T19:26:09.064+05:30  INFO 9268 --- [family-tree-medea-service] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
-2025-06-08T19:26:09.067+05:30  INFO 9268 --- [family-tree-medea-service] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
-2025-06-08T19:26:09.070+05:30  INFO 9268 --- [family-tree-medea-service] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
-2025-06-08T19:59:04.769+05:30  INFO 10771 --- [family-tree-medea-service] [main] s.FamilyTreeMedeaServiceApplicationTests : Starting FamilyTreeMedeaServiceApplicationTests using Java 21.0.7 with PID 10771 (started by mac in /Users/mac/Projects/Family Tree/family-duniya-media-service)
-2025-06-08T19:59:04.771+05:30  INFO 10771 --- [family-tree-medea-service] [main] s.FamilyTreeMedeaServiceApplicationTests : No active profile set, falling back to 1 default profile: "default"
-2025-06-08T19:59:05.082+05:30  INFO 10771 --- [family-tree-medea-service] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
-2025-06-08T19:59:05.106+05:30  INFO 10771 --- [family-tree-medea-service] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 19 ms. Found 1 JPA repository interface.
-2025-06-08T19:59:05.302+05:30  INFO 10771 --- [family-tree-medea-service] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
-2025-06-08T19:59:05.333+05:30  INFO 10771 --- [family-tree-medea-service] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.13.Final
-2025-06-08T19:59:05.351+05:30  INFO 10771 --- [family-tree-medea-service] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
-2025-06-08T19:59:05.485+05:30  INFO 10771 --- [family-tree-medea-service] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
-2025-06-08T19:59:05.498+05:30  INFO 10771 --- [family-tree-medea-service] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
-2025-06-08T19:59:05.575+05:30  INFO 10771 --- [family-tree-medea-service] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@1657b017
-2025-06-08T19:59:05.576+05:30  INFO 10771 --- [family-tree-medea-service] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
-2025-06-08T19:59:05.607+05:30  WARN 10771 --- [family-tree-medea-service] [main] org.hibernate.orm.deprecation            : HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
-2025-06-08T19:59:05.618+05:30  INFO 10771 --- [family-tree-medea-service] [main] org.hibernate.orm.connections.pooling    : HHH10001005: Database info:
+2025-06-14T11:05:21.552+05:30  INFO 12268 --- [family-tree-medea-service] [main] .t.m.s.FamilyTreeMedeaServiceApplication : Starting FamilyTreeMedeaServiceApplication using Java 21.0.7 with PID 12268 (/Users/mac/Projects/Family Tree/family-duniya-media-service/target/classes started by mac in /Users/mac/Projects/Family Tree/family-duniya-media-service)
+2025-06-14T11:05:21.560+05:30  INFO 12268 --- [family-tree-medea-service] [main] .t.m.s.FamilyTreeMedeaServiceApplication : No active profile set, falling back to 1 default profile: "default"
+2025-06-14T11:05:21.953+05:30  INFO 12268 --- [family-tree-medea-service] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-06-14T11:05:21.980+05:30  INFO 12268 --- [family-tree-medea-service] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 23 ms. Found 1 JPA repository interface.
+2025-06-14T11:05:22.244+05:30  INFO 12268 --- [family-tree-medea-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-06-14T11:05:22.253+05:30  INFO 12268 --- [family-tree-medea-service] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-06-14T11:05:22.253+05:30  INFO 12268 --- [family-tree-medea-service] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-06-14T11:05:22.276+05:30  INFO 12268 --- [family-tree-medea-service] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-06-14T11:05:22.277+05:30  INFO 12268 --- [family-tree-medea-service] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 677 ms
+2025-06-14T11:05:22.360+05:30  INFO 12268 --- [family-tree-medea-service] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-06-14T11:05:22.387+05:30  INFO 12268 --- [family-tree-medea-service] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.13.Final
+2025-06-14T11:05:22.403+05:30  INFO 12268 --- [family-tree-medea-service] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2025-06-14T11:05:22.565+05:30  INFO 12268 --- [family-tree-medea-service] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-06-14T11:05:22.581+05:30  INFO 12268 --- [family-tree-medea-service] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-06-14T11:05:22.643+05:30  INFO 12268 --- [family-tree-medea-service] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@227a933d
+2025-06-14T11:05:22.643+05:30  INFO 12268 --- [family-tree-medea-service] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2025-06-14T11:05:22.676+05:30  WARN 12268 --- [family-tree-medea-service] [main] org.hibernate.orm.deprecation            : HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-06-14T11:05:22.686+05:30  INFO 12268 --- [family-tree-medea-service] [main] org.hibernate.orm.connections.pooling    : HHH10001005: Database info:
 	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
 	Database driver: undefined/unknown
 	Database version: 14.18
@@ -44,10 +23,682 @@
 	Isolation level: undefined/unknown
 	Minimum pool size: undefined/unknown
 	Maximum pool size: undefined/unknown
-2025-06-08T19:59:06.130+05:30  INFO 10771 --- [family-tree-medea-service] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
-2025-06-08T19:59:06.629+05:30  INFO 10771 --- [family-tree-medea-service] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
-2025-06-08T19:59:07.091+05:30  WARN 10771 --- [family-tree-medea-service] [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
-2025-06-08T19:59:07.256+05:30  INFO 10771 --- [family-tree-medea-service] [main] s.FamilyTreeMedeaServiceApplicationTests : Started FamilyTreeMedeaServiceApplicationTests in 2.657 seconds (process running for 3.111)
-2025-06-08T19:59:07.588+05:30  INFO 10771 --- [family-tree-medea-service] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
-2025-06-08T19:59:07.590+05:30  INFO 10771 --- [family-tree-medea-service] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
-2025-06-08T19:59:07.592+05:30  INFO 10771 --- [family-tree-medea-service] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2025-06-14T11:05:23.194+05:30  INFO 12268 --- [family-tree-medea-service] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-06-14T11:05:23.707+05:30  INFO 12268 --- [family-tree-medea-service] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-06-14T11:05:24.118+05:30  WARN 12268 --- [family-tree-medea-service] [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-06-14T11:05:24.275+05:30  INFO 12268 --- [family-tree-medea-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-06-14T11:05:24.279+05:30  INFO 12268 --- [family-tree-medea-service] [main] .t.m.s.FamilyTreeMedeaServiceApplication : Started FamilyTreeMedeaServiceApplication in 3.025 seconds (process running for 3.248)
+2025-06-14T11:05:39.048+05:30  INFO 12268 --- [family-tree-medea-service] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-06-14T11:05:39.049+05:30  INFO 12268 --- [family-tree-medea-service] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-06-14T11:05:39.053+05:30  INFO 12268 --- [family-tree-medea-service] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2025-06-14T11:05:39.083+05:30  INFO 12268 --- [family-tree-medea-service] [http-nio-8080-exec-1] c.f.t.m.s.controller.MediaController     : MediaController#download()  fileName=23f522fc-9240-42e6-9c9d-b9ab45c1ba12_thumbnails/thumb_istockphoto.jpeg.jpg
+2025-06-14T11:05:39.208+05:30  INFO 12268 --- [family-tree-medea-service] [http-nio-8080-exec-1] c.f.t.m.s.controller.MediaController     : MediaController#download()  executed in 125 ms
+2025-06-14T11:17:56.311+05:30  INFO 12268 --- [family-tree-medea-service] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-06-14T11:17:56.322+05:30  INFO 12268 --- [family-tree-medea-service] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-06-14T11:17:56.328+05:30  INFO 12268 --- [family-tree-medea-service] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-06-14T11:17:56.331+05:30  INFO 12268 --- [family-tree-medea-service] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-06-14T11:17:56.335+05:30  INFO 12268 --- [family-tree-medea-service] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2025-06-14T11:17:59.535+05:30  INFO 12472 --- [family-tree-medea-service] [main] .t.m.s.FamilyTreeMedeaServiceApplication : Starting FamilyTreeMedeaServiceApplication using Java 21.0.7 with PID 12472 (/Users/mac/Projects/Family Tree/family-duniya-media-service/target/classes started by mac in /Users/mac/Projects/Family Tree/family-duniya-media-service)
+2025-06-14T11:17:59.536+05:30  INFO 12472 --- [family-tree-medea-service] [main] .t.m.s.FamilyTreeMedeaServiceApplication : No active profile set, falling back to 1 default profile: "default"
+2025-06-14T11:17:59.866+05:30  INFO 12472 --- [family-tree-medea-service] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-06-14T11:17:59.891+05:30  INFO 12472 --- [family-tree-medea-service] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 20 ms. Found 1 JPA repository interface.
+2025-06-14T11:18:00.134+05:30  INFO 12472 --- [family-tree-medea-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-06-14T11:18:00.142+05:30  INFO 12472 --- [family-tree-medea-service] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-06-14T11:18:00.142+05:30  INFO 12472 --- [family-tree-medea-service] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-06-14T11:18:00.165+05:30  INFO 12472 --- [family-tree-medea-service] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-06-14T11:18:00.165+05:30  INFO 12472 --- [family-tree-medea-service] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 609 ms
+2025-06-14T11:18:00.240+05:30  INFO 12472 --- [family-tree-medea-service] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-06-14T11:18:00.266+05:30  INFO 12472 --- [family-tree-medea-service] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.13.Final
+2025-06-14T11:18:00.282+05:30  INFO 12472 --- [family-tree-medea-service] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2025-06-14T11:18:00.425+05:30  INFO 12472 --- [family-tree-medea-service] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-06-14T11:18:00.439+05:30  INFO 12472 --- [family-tree-medea-service] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-06-14T11:18:00.495+05:30  INFO 12472 --- [family-tree-medea-service] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@25de8898
+2025-06-14T11:18:00.496+05:30  INFO 12472 --- [family-tree-medea-service] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2025-06-14T11:18:00.527+05:30  WARN 12472 --- [family-tree-medea-service] [main] org.hibernate.orm.deprecation            : HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-06-14T11:18:00.536+05:30  INFO 12472 --- [family-tree-medea-service] [main] org.hibernate.orm.connections.pooling    : HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 14.18
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-06-14T11:18:01.029+05:30  INFO 12472 --- [family-tree-medea-service] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-06-14T11:18:01.541+05:30  INFO 12472 --- [family-tree-medea-service] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-06-14T11:18:01.962+05:30  WARN 12472 --- [family-tree-medea-service] [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-06-14T11:18:02.115+05:30  INFO 12472 --- [family-tree-medea-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-06-14T11:18:02.120+05:30  INFO 12472 --- [family-tree-medea-service] [main] .t.m.s.FamilyTreeMedeaServiceApplication : Started FamilyTreeMedeaServiceApplication in 2.858 seconds (process running for 3.069)
+2025-06-14T11:18:20.526+05:30  INFO 12472 --- [family-tree-medea-service] [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-06-14T11:18:20.526+05:30  INFO 12472 --- [family-tree-medea-service] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-06-14T11:18:20.528+05:30  INFO 12472 --- [family-tree-medea-service] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2025-06-14T11:18:20.560+05:30  INFO 12472 --- [family-tree-medea-service] [http-nio-8080-exec-2] c.f.t.m.s.controller.MediaController     : MediaController#download()  fileName=23f522fc-9240-42e6-9c9d-b9ab45c1ba12_thumbnails/thumb_istockphoto.jpeg.jpg
+2025-06-14T11:18:20.790+05:30  INFO 12472 --- [family-tree-medea-service] [http-nio-8080-exec-2] c.f.t.m.s.controller.MediaController     : MediaController#download()  executed in 230 ms
+2025-06-14T11:20:46.574+05:30  INFO 12472 --- [family-tree-medea-service] [http-nio-8080-exec-5] c.f.t.m.s.controller.MediaController     : MediaController#download()  fileName=23f522fc-9240-42e6-9c9d-b9ab45c1ba12_thumbnails/thumb_istockphoto.jpeg.jpg
+2025-06-14T11:20:46.612+05:30  INFO 12472 --- [family-tree-medea-service] [http-nio-8080-exec-5] c.f.t.m.s.controller.MediaController     : MediaController#download()  executed in 38 ms
+2025-06-14T11:22:27.987+05:30  INFO 12472 --- [family-tree-medea-service] [http-nio-8080-exec-8] c.f.t.m.s.controller.MediaController     : MediaController#download()  fileName=23f522fc-9240-42e6-9c9d-b9ab45c1ba12_thumbnails/thumb_istockphoto.jpeg.jpg
+2025-06-14T11:22:27.987+05:30  INFO 12472 --- [family-tree-medea-service] [http-nio-8080-exec-7] c.f.t.m.s.controller.MediaController     : MediaController#download()  fileName=23f522fc-9240-42e6-9c9d-b9ab45c1ba12_thumbnails/thumb_istockphoto.jpeg.jpg
+2025-06-14T11:22:28.003+05:30  INFO 12472 --- [family-tree-medea-service] [http-nio-8080-exec-8] c.f.t.m.s.controller.MediaController     : MediaController#download()  executed in 16 ms
+2025-06-14T11:22:28.003+05:30  INFO 12472 --- [family-tree-medea-service] [http-nio-8080-exec-7] c.f.t.m.s.controller.MediaController     : MediaController#download()  executed in 16 ms
+2025-06-14T11:22:40.755+05:30  INFO 12472 --- [family-tree-medea-service] [http-nio-8080-exec-9] c.f.t.m.s.controller.MediaController     : MediaController#download()  fileName=23f522fc-9240-42e6-9c9d-b9ab45c1ba12_thumbnails/thumb_istockphoto.jpeg.jpg
+2025-06-14T11:22:40.766+05:30  INFO 12472 --- [family-tree-medea-service] [http-nio-8080-exec-9] c.f.t.m.s.controller.MediaController     : MediaController#download()  executed in 11 ms
+2025-06-14T11:28:43.885+05:30  INFO 12472 --- [family-tree-medea-service] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-06-14T11:28:43.891+05:30  INFO 12472 --- [family-tree-medea-service] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-06-14T11:28:43.895+05:30  INFO 12472 --- [family-tree-medea-service] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-06-14T11:28:43.898+05:30  INFO 12472 --- [family-tree-medea-service] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-06-14T11:28:43.900+05:30  INFO 12472 --- [family-tree-medea-service] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2025-06-14T11:29:30.604+05:30  INFO 12630 --- [family-tree-medea-service] [main] .t.m.s.FamilyTreeMedeaServiceApplication : Starting FamilyTreeMedeaServiceApplication using Java 21.0.7 with PID 12630 (/Users/mac/Projects/Family Tree/family-duniya-media-service/target/classes started by mac in /Users/mac/Projects/Family Tree/family-duniya-media-service)
+2025-06-14T11:29:30.606+05:30  INFO 12630 --- [family-tree-medea-service] [main] .t.m.s.FamilyTreeMedeaServiceApplication : No active profile set, falling back to 1 default profile: "default"
+2025-06-14T11:29:30.940+05:30  INFO 12630 --- [family-tree-medea-service] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-06-14T11:29:30.966+05:30  INFO 12630 --- [family-tree-medea-service] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 21 ms. Found 1 JPA repository interface.
+2025-06-14T11:29:31.217+05:30  INFO 12630 --- [family-tree-medea-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-06-14T11:29:31.225+05:30  INFO 12630 --- [family-tree-medea-service] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-06-14T11:29:31.225+05:30  INFO 12630 --- [family-tree-medea-service] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-06-14T11:29:31.248+05:30  INFO 12630 --- [family-tree-medea-service] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-06-14T11:29:31.249+05:30  INFO 12630 --- [family-tree-medea-service] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 619 ms
+2025-06-14T11:29:31.325+05:30  INFO 12630 --- [family-tree-medea-service] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-06-14T11:29:31.352+05:30  INFO 12630 --- [family-tree-medea-service] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.13.Final
+2025-06-14T11:29:31.367+05:30  INFO 12630 --- [family-tree-medea-service] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2025-06-14T11:29:31.518+05:30  INFO 12630 --- [family-tree-medea-service] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-06-14T11:29:31.532+05:30  INFO 12630 --- [family-tree-medea-service] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-06-14T11:29:31.603+05:30  INFO 12630 --- [family-tree-medea-service] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@dd737ea
+2025-06-14T11:29:31.604+05:30  INFO 12630 --- [family-tree-medea-service] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2025-06-14T11:29:31.634+05:30  WARN 12630 --- [family-tree-medea-service] [main] org.hibernate.orm.deprecation            : HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-06-14T11:29:31.644+05:30  INFO 12630 --- [family-tree-medea-service] [main] org.hibernate.orm.connections.pooling    : HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 14.18
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-06-14T11:29:32.145+05:30  INFO 12630 --- [family-tree-medea-service] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-06-14T11:29:32.656+05:30  INFO 12630 --- [family-tree-medea-service] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-06-14T11:29:33.086+05:30  WARN 12630 --- [family-tree-medea-service] [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-06-14T11:29:33.238+05:30  INFO 12630 --- [family-tree-medea-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-06-14T11:29:33.244+05:30  INFO 12630 --- [family-tree-medea-service] [main] .t.m.s.FamilyTreeMedeaServiceApplication : Started FamilyTreeMedeaServiceApplication in 2.919 seconds (process running for 3.141)
+2025-06-14T11:29:46.880+05:30  INFO 12630 --- [family-tree-medea-service] [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-06-14T11:29:46.880+05:30  INFO 12630 --- [family-tree-medea-service] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-06-14T11:29:46.881+05:30  INFO 12630 --- [family-tree-medea-service] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-06-14T11:29:46.901+05:30  WARN 12630 --- [family-tree-medea-service] [http-nio-8080-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' is not supported]
+2025-06-14T11:29:55.183+05:30  INFO 12630 --- [family-tree-medea-service] [http-nio-8080-exec-3] c.f.t.m.s.controller.MediaController     : MediaController#upload()  personId=1, description=test
+2025-06-14T11:29:55.292+05:30  INFO 12630 --- [family-tree-medea-service] [http-nio-8080-exec-3] c.f.t.m.s.controller.MediaController     : MediaController#upload()  File upload completed, key=94872391-ecf7-4742-bc1c-cd2cd2ab6455_23f522fc-9240-42e6-9c9d-b9ab45c1ba12_thumbnails_thumb_istockphoto.jpeg.jpg
+2025-06-14T11:29:55.424+05:30  INFO 12630 --- [family-tree-medea-service] [http-nio-8080-exec-3] c.f.t.m.s.controller.MediaController     : MediaController#upload()  Thumbnail upload completed, key=5389d5ab-730d-4f95-b53b-acaeb509d745_thumb_23f522fc-9240-42e6-9c9d-b9ab45c1ba12_thumbnails_thumb_istockphoto.jpeg.jpg.jpg
+2025-06-14T11:29:55.497+05:30  INFO 12630 --- [family-tree-medea-service] [http-nio-8080-exec-3] c.f.t.m.s.controller.MediaController     : MediaController#upload()  Saved, media=Media(id=4, person=PersonDetail(id=1, info=null, dateCreated=null, firstName=null, lastName=null, relationType=null, gender=null, memberAlive=null, birthDate=null, marriageDate=null, deathDate=null, linkThisMemberToAUser=null, photo=null, avatar=null, facebook=null, twitter=null, instagram=null, email=null, homeTel=null, website=null, birthPlace=null, deathPlace=null, profession=null, company=null, bioNotes=null), mediaType=photo, fileName=23f522fc-9240-42e6-9c9d-b9ab45c1ba12_thumbnails_thumb_istockphoto.jpeg.jpg, fileType=image/jpeg, fileSize=16723, fileUrl=94872391-ecf7-4742-bc1c-cd2cd2ab6455_23f522fc-9240-42e6-9c9d-b9ab45c1ba12_thumbnails_thumb_istockphoto.jpeg.jpg, fileThumbnailUrl=5389d5ab-730d-4f95-b53b-acaeb509d745_thumb_23f522fc-9240-42e6-9c9d-b9ab45c1ba12_thumbnails_thumb_istockphoto.jpeg.jpg.jpg, uploadedAt=2025-06-14T11:29:55.425110, description=test)
+2025-06-14T11:29:55.502+05:30  INFO 12630 --- [family-tree-medea-service] [http-nio-8080-exec-3] c.f.t.m.s.controller.MediaController     : MediaController#upload()  executed in 319 ms
+2025-06-14T11:31:27.619+05:30  INFO 12630 --- [family-tree-medea-service] [http-nio-8080-exec-6] c.f.t.m.s.controller.MediaController     : MediaController#uploadProfilePic()  personId=1, description=test
+2025-06-14T11:31:27.630+05:30  INFO 12630 --- [family-tree-medea-service] [http-nio-8080-exec-6] c.f.t.m.s.controller.MediaController     : MediaController#uploadProfilePic()  File upload completed, key=2bc8e06b-4c2c-4784-a4fa-5572727d0045_23f522fc-9240-42e6-9c9d-b9ab45c1ba12_thumbnails_thumb_istockphoto.jpeg.jpg
+2025-06-14T11:31:27.654+05:30  INFO 12630 --- [family-tree-medea-service] [http-nio-8080-exec-6] c.f.t.m.s.controller.MediaController     : MediaController#uploadProfilePic()  Thumbnail upload completed, key=348ce015-87ae-4029-b9c1-d69df4d66c94_thumb_23f522fc-9240-42e6-9c9d-b9ab45c1ba12_thumbnails_thumb_istockphoto.jpeg.jpg.jpg
+2025-06-14T11:31:27.654+05:30  INFO 12630 --- [family-tree-medea-service] [http-nio-8080-exec-6] c.f.t.m.s.controller.MediaController     : MediaController#uploadProfilePic()  executed in 35 ms
+2025-06-14T11:31:40.135+05:30  INFO 12630 --- [family-tree-medea-service] [http-nio-8080-exec-7] c.f.t.m.s.controller.MediaController     : MediaController#uploadProfilePic()  personId=1, description=test
+2025-06-14T11:31:40.143+05:30  INFO 12630 --- [family-tree-medea-service] [http-nio-8080-exec-7] c.f.t.m.s.controller.MediaController     : MediaController#uploadProfilePic()  File upload completed, key=7d3cece4-f24f-44aa-b5dc-031cbd8c4d46_23f522fc-9240-42e6-9c9d-b9ab45c1ba12_thumbnails_thumb_istockphoto.jpeg.jpg
+2025-06-14T11:31:40.160+05:30  INFO 12630 --- [family-tree-medea-service] [http-nio-8080-exec-7] c.f.t.m.s.controller.MediaController     : MediaController#uploadProfilePic()  Thumbnail upload completed, key=c4b84d98-8b1a-450f-9b1a-4f517f0c0022_thumb_23f522fc-9240-42e6-9c9d-b9ab45c1ba12_thumbnails_thumb_istockphoto.jpeg.jpg.jpg
+2025-06-14T11:31:40.160+05:30  INFO 12630 --- [family-tree-medea-service] [http-nio-8080-exec-7] c.f.t.m.s.controller.MediaController     : MediaController#uploadProfilePic()  executed in 25 ms
+2025-06-14T11:34:41.253+05:30  WARN 12630 --- [family-tree-medea-service] [http-nio-8080-exec-9] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Cannot deserialize value of type `java.util.ArrayList<java.lang.Long>` from Object value (token `JsonToken.START_OBJECT`)]
+2025-06-14T11:35:52.521+05:30 ERROR 12630 --- [family-tree-medea-service] [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: org.springframework.orm.jpa.JpaSystemException: Unable to access lob stream] with root cause
+
+org.postgresql.util.PSQLException: Large Objects may not be used in auto-commit mode.
+	at org.postgresql.largeobject.LargeObjectManager.open(LargeObjectManager.java:244) ~[postgresql-42.7.5.jar:42.7.5]
+	at org.postgresql.largeobject.LargeObjectManager.open(LargeObjectManager.java:230) ~[postgresql-42.7.5.jar:42.7.5]
+	at org.postgresql.jdbc.AbstractBlobClob.getLo(AbstractBlobClob.java:288) ~[postgresql-42.7.5.jar:42.7.5]
+	at org.postgresql.jdbc.AbstractBlobClob.getBinaryStream(AbstractBlobClob.java:127) ~[postgresql-42.7.5.jar:42.7.5]
+	at org.postgresql.jdbc.PgClob.getCharacterStream(PgClob.java:76) ~[postgresql-42.7.5.jar:42.7.5]
+	at org.hibernate.type.descriptor.java.DataHelper.extractString(DataHelper.java:263) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.type.descriptor.java.StringJavaType.wrap(StringJavaType.java:117) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.type.descriptor.java.StringJavaType.wrap(StringJavaType.java:28) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.type.descriptor.jdbc.ClobJdbcType$1.doExtract(ClobJdbcType.java:57) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.type.descriptor.jdbc.BasicExtractor.extract(BasicExtractor.java:44) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.jdbc.internal.JdbcValuesResultSetImpl.getCurrentRowValue(JdbcValuesResultSetImpl.java:387) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.internal.RowProcessingStateStandardImpl.getJdbcValue(RowProcessingStateStandardImpl.java:152) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.graph.basic.BasicResultAssembler.extractRawValue(BasicResultAssembler.java:54) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.graph.basic.BasicResultAssembler.assemble(BasicResultAssembler.java:60) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.graph.entity.internal.EntityInitializerImpl.extractConcreteTypeStateValues(EntityInitializerImpl.java:1607) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.graph.entity.internal.EntityInitializerImpl.initializeEntityInstance(EntityInitializerImpl.java:1333) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.graph.entity.internal.EntityInitializerImpl.initializeInstance(EntityInitializerImpl.java:1312) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.graph.entity.internal.EntityInitializerImpl.initializeInstance(EntityInitializerImpl.java:97) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.internal.StandardRowReader.coordinateInitializers(StandardRowReader.java:244) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.internal.StandardRowReader.readRow(StandardRowReader.java:141) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.spi.ListResultsConsumer.read(ListResultsConsumer.java:249) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.spi.ListResultsConsumer.consume(ListResultsConsumer.java:201) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.spi.ListResultsConsumer.consume(ListResultsConsumer.java:35) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.exec.internal.JdbcSelectExecutorStandardImpl.doExecuteQuery(JdbcSelectExecutorStandardImpl.java:224) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.exec.internal.JdbcSelectExecutorStandardImpl.executeQuery(JdbcSelectExecutorStandardImpl.java:102) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.exec.spi.JdbcSelectExecutor.executeQuery(JdbcSelectExecutor.java:91) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.exec.spi.JdbcSelectExecutor.list(JdbcSelectExecutor.java:165) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.query.sqm.internal.ConcreteSqmSelectQueryPlan.lambda$new$1(ConcreteSqmSelectQueryPlan.java:152) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.query.sqm.internal.ConcreteSqmSelectQueryPlan.withCacheableSqmInterpretation(ConcreteSqmSelectQueryPlan.java:442) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.query.sqm.internal.ConcreteSqmSelectQueryPlan.performList(ConcreteSqmSelectQueryPlan.java:362) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.query.sqm.internal.QuerySqmImpl.doList(QuerySqmImpl.java:380) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.query.spi.AbstractSelectionQuery.list(AbstractSelectionQuery.java:143) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.query.Query.getResultList(Query.java:120) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution$CollectionExecution.doExecute(JpaQueryExecution.java:130) ~[spring-data-jpa-3.4.5.jar:3.4.5]
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution.execute(JpaQueryExecution.java:93) ~[spring-data-jpa-3.4.5.jar:3.4.5]
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.doExecute(AbstractJpaQuery.java:152) ~[spring-data-jpa-3.4.5.jar:3.4.5]
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.execute(AbstractJpaQuery.java:140) ~[spring-data-jpa-3.4.5.jar:3.4.5]
+	at org.springframework.data.repository.core.support.RepositoryMethodInvoker.doInvoke(RepositoryMethodInvoker.java:170) ~[spring-data-commons-3.4.5.jar:3.4.5]
+	at org.springframework.data.repository.core.support.RepositoryMethodInvoker.invoke(RepositoryMethodInvoker.java:158) ~[spring-data-commons-3.4.5.jar:3.4.5]
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.doInvoke(QueryExecutorMethodInterceptor.java:170) ~[spring-data-commons-3.4.5.jar:3.4.5]
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.invoke(QueryExecutorMethodInterceptor.java:149) ~[spring-data-commons-3.4.5.jar:3.4.5]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184) ~[spring-aop-6.2.6.jar:6.2.6]
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:380) ~[spring-tx-6.2.6.jar:6.2.6]
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119) ~[spring-tx-6.2.6.jar:6.2.6]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184) ~[spring-aop-6.2.6.jar:6.2.6]
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:138) ~[spring-tx-6.2.6.jar:6.2.6]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184) ~[spring-aop-6.2.6.jar:6.2.6]
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:136) ~[spring-data-jpa-3.4.5.jar:3.4.5]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184) ~[spring-aop-6.2.6.jar:6.2.6]
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:223) ~[spring-aop-6.2.6.jar:6.2.6]
+	at jdk.proxy2/jdk.proxy2.$Proxy118.findByPersonIdIn(Unknown Source) ~[na:na]
+	at com.family.tree.media.service.controller.MediaController.getMediaByUsers(MediaController.java:142) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:258) ~[spring-web-6.2.6.jar:6.2.6]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:191) ~[spring-web-6.2.6.jar:6.2.6]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) ~[spring-webmvc-6.2.6.jar:6.2.6]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:986) ~[spring-webmvc-6.2.6.jar:6.2.6]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:891) ~[spring-webmvc-6.2.6.jar:6.2.6]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-6.2.6.jar:6.2.6]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089) ~[spring-webmvc-6.2.6.jar:6.2.6]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979) ~[spring-webmvc-6.2.6.jar:6.2.6]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-6.2.6.jar:6.2.6]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914) ~[spring-webmvc-6.2.6.jar:6.2.6]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590) ~[tomcat-embed-core-10.1.40.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.2.6.jar:6.2.6]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[tomcat-embed-core-10.1.40.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.2.6.jar:6.2.6]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.6.jar:6.2.6]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.2.6.jar:6.2.6]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.6.jar:6.2.6]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.2.6.jar:6.2.6]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.6.jar:6.2.6]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:116) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:398) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:903) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1740) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[na:na]
+
+2025-06-14T11:42:19.948+05:30  INFO 12630 --- [family-tree-medea-service] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-06-14T11:42:19.961+05:30  INFO 12630 --- [family-tree-medea-service] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-06-14T11:42:19.967+05:30  INFO 12630 --- [family-tree-medea-service] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-06-14T11:42:19.970+05:30  INFO 12630 --- [family-tree-medea-service] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-06-14T11:42:19.972+05:30  INFO 12630 --- [family-tree-medea-service] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2025-06-14T11:42:21.834+05:30  INFO 12853 --- [family-tree-medea-service] [main] .t.m.s.FamilyTreeMedeaServiceApplication : Starting FamilyTreeMedeaServiceApplication using Java 21.0.7 with PID 12853 (/Users/mac/Projects/Family Tree/family-duniya-media-service/target/classes started by mac in /Users/mac/Projects/Family Tree/family-duniya-media-service)
+2025-06-14T11:42:21.836+05:30  INFO 12853 --- [family-tree-medea-service] [main] .t.m.s.FamilyTreeMedeaServiceApplication : No active profile set, falling back to 1 default profile: "default"
+2025-06-14T11:42:22.195+05:30  INFO 12853 --- [family-tree-medea-service] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-06-14T11:42:22.222+05:30  INFO 12853 --- [family-tree-medea-service] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 22 ms. Found 1 JPA repository interface.
+2025-06-14T11:42:22.465+05:30  INFO 12853 --- [family-tree-medea-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-06-14T11:42:22.472+05:30  INFO 12853 --- [family-tree-medea-service] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-06-14T11:42:22.472+05:30  INFO 12853 --- [family-tree-medea-service] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-06-14T11:42:22.496+05:30  INFO 12853 --- [family-tree-medea-service] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-06-14T11:42:22.496+05:30  INFO 12853 --- [family-tree-medea-service] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 636 ms
+2025-06-14T11:42:22.571+05:30  INFO 12853 --- [family-tree-medea-service] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-06-14T11:42:22.598+05:30  INFO 12853 --- [family-tree-medea-service] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.13.Final
+2025-06-14T11:42:22.614+05:30  INFO 12853 --- [family-tree-medea-service] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2025-06-14T11:42:22.754+05:30  INFO 12853 --- [family-tree-medea-service] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-06-14T11:42:22.768+05:30  INFO 12853 --- [family-tree-medea-service] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-06-14T11:42:22.817+05:30  INFO 12853 --- [family-tree-medea-service] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@227a933d
+2025-06-14T11:42:22.818+05:30  INFO 12853 --- [family-tree-medea-service] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2025-06-14T11:42:22.856+05:30  WARN 12853 --- [family-tree-medea-service] [main] org.hibernate.orm.deprecation            : HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-06-14T11:42:22.865+05:30  INFO 12853 --- [family-tree-medea-service] [main] org.hibernate.orm.connections.pooling    : HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 14.18
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-06-14T11:42:23.350+05:30  INFO 12853 --- [family-tree-medea-service] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-06-14T11:42:23.855+05:30  INFO 12853 --- [family-tree-medea-service] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-06-14T11:42:24.269+05:30  WARN 12853 --- [family-tree-medea-service] [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-06-14T11:42:24.426+05:30  INFO 12853 --- [family-tree-medea-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-06-14T11:42:24.431+05:30  INFO 12853 --- [family-tree-medea-service] [main] .t.m.s.FamilyTreeMedeaServiceApplication : Started FamilyTreeMedeaServiceApplication in 2.862 seconds (process running for 3.097)
+2025-06-14T11:42:40.834+05:30  INFO 12853 --- [family-tree-medea-service] [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-06-14T11:42:40.834+05:30  INFO 12853 --- [family-tree-medea-service] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-06-14T11:42:40.835+05:30  INFO 12853 --- [family-tree-medea-service] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-06-14T11:42:40.970+05:30 ERROR 12853 --- [family-tree-medea-service] [http-nio-8080-exec-2] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: org.springframework.orm.jpa.JpaSystemException: Unable to access lob stream] with root cause
+
+org.postgresql.util.PSQLException: Large Objects may not be used in auto-commit mode.
+	at org.postgresql.largeobject.LargeObjectManager.open(LargeObjectManager.java:244) ~[postgresql-42.7.5.jar:42.7.5]
+	at org.postgresql.largeobject.LargeObjectManager.open(LargeObjectManager.java:230) ~[postgresql-42.7.5.jar:42.7.5]
+	at org.postgresql.jdbc.AbstractBlobClob.getLo(AbstractBlobClob.java:288) ~[postgresql-42.7.5.jar:42.7.5]
+	at org.postgresql.jdbc.AbstractBlobClob.getBinaryStream(AbstractBlobClob.java:127) ~[postgresql-42.7.5.jar:42.7.5]
+	at org.postgresql.jdbc.PgClob.getCharacterStream(PgClob.java:76) ~[postgresql-42.7.5.jar:42.7.5]
+	at org.hibernate.type.descriptor.java.DataHelper.extractString(DataHelper.java:263) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.type.descriptor.java.StringJavaType.wrap(StringJavaType.java:117) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.type.descriptor.java.StringJavaType.wrap(StringJavaType.java:28) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.type.descriptor.jdbc.ClobJdbcType$1.doExtract(ClobJdbcType.java:57) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.type.descriptor.jdbc.BasicExtractor.extract(BasicExtractor.java:44) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.jdbc.internal.JdbcValuesResultSetImpl.getCurrentRowValue(JdbcValuesResultSetImpl.java:387) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.internal.RowProcessingStateStandardImpl.getJdbcValue(RowProcessingStateStandardImpl.java:152) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.graph.basic.BasicResultAssembler.extractRawValue(BasicResultAssembler.java:54) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.graph.basic.BasicResultAssembler.assemble(BasicResultAssembler.java:60) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.graph.entity.internal.EntityInitializerImpl.extractConcreteTypeStateValues(EntityInitializerImpl.java:1607) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.graph.entity.internal.EntityInitializerImpl.initializeEntityInstance(EntityInitializerImpl.java:1333) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.graph.entity.internal.EntityInitializerImpl.initializeInstance(EntityInitializerImpl.java:1312) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.graph.entity.internal.EntityInitializerImpl.initializeInstance(EntityInitializerImpl.java:97) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.internal.StandardRowReader.coordinateInitializers(StandardRowReader.java:244) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.internal.StandardRowReader.readRow(StandardRowReader.java:141) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.spi.ListResultsConsumer.read(ListResultsConsumer.java:249) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.spi.ListResultsConsumer.consume(ListResultsConsumer.java:201) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.spi.ListResultsConsumer.consume(ListResultsConsumer.java:35) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.exec.internal.JdbcSelectExecutorStandardImpl.doExecuteQuery(JdbcSelectExecutorStandardImpl.java:224) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.exec.internal.JdbcSelectExecutorStandardImpl.executeQuery(JdbcSelectExecutorStandardImpl.java:102) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.exec.spi.JdbcSelectExecutor.executeQuery(JdbcSelectExecutor.java:91) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.exec.spi.JdbcSelectExecutor.list(JdbcSelectExecutor.java:165) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.query.sqm.internal.ConcreteSqmSelectQueryPlan.lambda$new$1(ConcreteSqmSelectQueryPlan.java:152) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.query.sqm.internal.ConcreteSqmSelectQueryPlan.withCacheableSqmInterpretation(ConcreteSqmSelectQueryPlan.java:442) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.query.sqm.internal.ConcreteSqmSelectQueryPlan.performList(ConcreteSqmSelectQueryPlan.java:362) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.query.sqm.internal.QuerySqmImpl.doList(QuerySqmImpl.java:380) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.query.spi.AbstractSelectionQuery.list(AbstractSelectionQuery.java:143) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.query.Query.getResultList(Query.java:120) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution$CollectionExecution.doExecute(JpaQueryExecution.java:130) ~[spring-data-jpa-3.4.5.jar:3.4.5]
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution.execute(JpaQueryExecution.java:93) ~[spring-data-jpa-3.4.5.jar:3.4.5]
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.doExecute(AbstractJpaQuery.java:152) ~[spring-data-jpa-3.4.5.jar:3.4.5]
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.execute(AbstractJpaQuery.java:140) ~[spring-data-jpa-3.4.5.jar:3.4.5]
+	at org.springframework.data.repository.core.support.RepositoryMethodInvoker.doInvoke(RepositoryMethodInvoker.java:170) ~[spring-data-commons-3.4.5.jar:3.4.5]
+	at org.springframework.data.repository.core.support.RepositoryMethodInvoker.invoke(RepositoryMethodInvoker.java:158) ~[spring-data-commons-3.4.5.jar:3.4.5]
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.doInvoke(QueryExecutorMethodInterceptor.java:170) ~[spring-data-commons-3.4.5.jar:3.4.5]
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.invoke(QueryExecutorMethodInterceptor.java:149) ~[spring-data-commons-3.4.5.jar:3.4.5]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184) ~[spring-aop-6.2.6.jar:6.2.6]
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:380) ~[spring-tx-6.2.6.jar:6.2.6]
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119) ~[spring-tx-6.2.6.jar:6.2.6]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184) ~[spring-aop-6.2.6.jar:6.2.6]
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:138) ~[spring-tx-6.2.6.jar:6.2.6]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184) ~[spring-aop-6.2.6.jar:6.2.6]
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:136) ~[spring-data-jpa-3.4.5.jar:3.4.5]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184) ~[spring-aop-6.2.6.jar:6.2.6]
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:223) ~[spring-aop-6.2.6.jar:6.2.6]
+	at jdk.proxy2/jdk.proxy2.$Proxy118.findByPersonIdIn(Unknown Source) ~[na:na]
+	at com.family.tree.media.service.controller.MediaController.getMediaByUsers(MediaController.java:142) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:258) ~[spring-web-6.2.6.jar:6.2.6]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:191) ~[spring-web-6.2.6.jar:6.2.6]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) ~[spring-webmvc-6.2.6.jar:6.2.6]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:986) ~[spring-webmvc-6.2.6.jar:6.2.6]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:891) ~[spring-webmvc-6.2.6.jar:6.2.6]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-6.2.6.jar:6.2.6]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089) ~[spring-webmvc-6.2.6.jar:6.2.6]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979) ~[spring-webmvc-6.2.6.jar:6.2.6]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-6.2.6.jar:6.2.6]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914) ~[spring-webmvc-6.2.6.jar:6.2.6]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590) ~[tomcat-embed-core-10.1.40.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.2.6.jar:6.2.6]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[tomcat-embed-core-10.1.40.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.2.6.jar:6.2.6]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.6.jar:6.2.6]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.2.6.jar:6.2.6]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.6.jar:6.2.6]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.2.6.jar:6.2.6]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.6.jar:6.2.6]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:116) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:398) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:903) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1740) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[na:na]
+
+2025-06-14T11:43:19.861+05:30  INFO 12853 --- [family-tree-medea-service] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-06-14T11:43:19.872+05:30  INFO 12853 --- [family-tree-medea-service] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-06-14T11:43:19.877+05:30  INFO 12853 --- [family-tree-medea-service] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-06-14T11:43:19.881+05:30  INFO 12853 --- [family-tree-medea-service] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-06-14T11:43:19.883+05:30  INFO 12853 --- [family-tree-medea-service] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2025-06-14T11:43:21.530+05:30  INFO 12878 --- [family-tree-medea-service] [main] .t.m.s.FamilyTreeMedeaServiceApplication : Starting FamilyTreeMedeaServiceApplication using Java 21.0.7 with PID 12878 (/Users/mac/Projects/Family Tree/family-duniya-media-service/target/classes started by mac in /Users/mac/Projects/Family Tree/family-duniya-media-service)
+2025-06-14T11:43:21.531+05:30  INFO 12878 --- [family-tree-medea-service] [main] .t.m.s.FamilyTreeMedeaServiceApplication : No active profile set, falling back to 1 default profile: "default"
+2025-06-14T11:43:21.856+05:30  INFO 12878 --- [family-tree-medea-service] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-06-14T11:43:21.881+05:30  INFO 12878 --- [family-tree-medea-service] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 20 ms. Found 1 JPA repository interface.
+2025-06-14T11:43:22.134+05:30  INFO 12878 --- [family-tree-medea-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-06-14T11:43:22.141+05:30  INFO 12878 --- [family-tree-medea-service] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-06-14T11:43:22.141+05:30  INFO 12878 --- [family-tree-medea-service] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-06-14T11:43:22.164+05:30  INFO 12878 --- [family-tree-medea-service] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-06-14T11:43:22.164+05:30  INFO 12878 --- [family-tree-medea-service] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 611 ms
+2025-06-14T11:43:22.234+05:30  INFO 12878 --- [family-tree-medea-service] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-06-14T11:43:22.256+05:30  INFO 12878 --- [family-tree-medea-service] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.13.Final
+2025-06-14T11:43:22.269+05:30  INFO 12878 --- [family-tree-medea-service] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2025-06-14T11:43:22.397+05:30  INFO 12878 --- [family-tree-medea-service] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-06-14T11:43:22.412+05:30  INFO 12878 --- [family-tree-medea-service] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-06-14T11:43:22.464+05:30  INFO 12878 --- [family-tree-medea-service] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@2fac80a8
+2025-06-14T11:43:22.465+05:30  INFO 12878 --- [family-tree-medea-service] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2025-06-14T11:43:22.487+05:30  WARN 12878 --- [family-tree-medea-service] [main] org.hibernate.orm.deprecation            : HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-06-14T11:43:22.495+05:30  INFO 12878 --- [family-tree-medea-service] [main] org.hibernate.orm.connections.pooling    : HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 14.18
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-06-14T11:43:23.003+05:30  INFO 12878 --- [family-tree-medea-service] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-06-14T11:43:23.483+05:30  INFO 12878 --- [family-tree-medea-service] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-06-14T11:43:23.887+05:30  WARN 12878 --- [family-tree-medea-service] [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-06-14T11:43:24.037+05:30  INFO 12878 --- [family-tree-medea-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-06-14T11:43:24.042+05:30  INFO 12878 --- [family-tree-medea-service] [main] .t.m.s.FamilyTreeMedeaServiceApplication : Started FamilyTreeMedeaServiceApplication in 2.764 seconds (process running for 2.954)
+2025-06-14T11:43:45.562+05:30  INFO 12878 --- [family-tree-medea-service] [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-06-14T11:43:45.563+05:30  INFO 12878 --- [family-tree-medea-service] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-06-14T11:43:45.564+05:30  INFO 12878 --- [family-tree-medea-service] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-06-14T11:43:45.715+05:30 ERROR 12878 --- [family-tree-medea-service] [http-nio-8080-exec-2] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: org.springframework.orm.jpa.JpaSystemException: Unable to access lob stream] with root cause
+
+org.postgresql.util.PSQLException: Large Objects may not be used in auto-commit mode.
+	at org.postgresql.largeobject.LargeObjectManager.open(LargeObjectManager.java:244) ~[postgresql-42.7.5.jar:42.7.5]
+	at org.postgresql.largeobject.LargeObjectManager.open(LargeObjectManager.java:230) ~[postgresql-42.7.5.jar:42.7.5]
+	at org.postgresql.jdbc.AbstractBlobClob.getLo(AbstractBlobClob.java:288) ~[postgresql-42.7.5.jar:42.7.5]
+	at org.postgresql.jdbc.AbstractBlobClob.getBinaryStream(AbstractBlobClob.java:127) ~[postgresql-42.7.5.jar:42.7.5]
+	at org.postgresql.jdbc.PgClob.getCharacterStream(PgClob.java:76) ~[postgresql-42.7.5.jar:42.7.5]
+	at org.hibernate.type.descriptor.java.DataHelper.extractString(DataHelper.java:263) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.type.descriptor.java.StringJavaType.wrap(StringJavaType.java:117) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.type.descriptor.java.StringJavaType.wrap(StringJavaType.java:28) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.type.descriptor.jdbc.ClobJdbcType$1.doExtract(ClobJdbcType.java:57) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.type.descriptor.jdbc.BasicExtractor.extract(BasicExtractor.java:44) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.jdbc.internal.JdbcValuesResultSetImpl.getCurrentRowValue(JdbcValuesResultSetImpl.java:387) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.internal.RowProcessingStateStandardImpl.getJdbcValue(RowProcessingStateStandardImpl.java:152) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.graph.basic.BasicResultAssembler.extractRawValue(BasicResultAssembler.java:54) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.graph.basic.BasicResultAssembler.assemble(BasicResultAssembler.java:60) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.graph.entity.internal.EntityInitializerImpl.extractConcreteTypeStateValues(EntityInitializerImpl.java:1607) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.graph.entity.internal.EntityInitializerImpl.initializeEntityInstance(EntityInitializerImpl.java:1333) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.graph.entity.internal.EntityInitializerImpl.initializeInstance(EntityInitializerImpl.java:1312) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.graph.entity.internal.EntityInitializerImpl.initializeInstance(EntityInitializerImpl.java:97) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.internal.StandardRowReader.coordinateInitializers(StandardRowReader.java:244) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.internal.StandardRowReader.readRow(StandardRowReader.java:141) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.spi.ListResultsConsumer.read(ListResultsConsumer.java:249) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.spi.ListResultsConsumer.consume(ListResultsConsumer.java:201) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.spi.ListResultsConsumer.consume(ListResultsConsumer.java:35) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.exec.internal.JdbcSelectExecutorStandardImpl.doExecuteQuery(JdbcSelectExecutorStandardImpl.java:224) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.exec.internal.JdbcSelectExecutorStandardImpl.executeQuery(JdbcSelectExecutorStandardImpl.java:102) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.exec.spi.JdbcSelectExecutor.executeQuery(JdbcSelectExecutor.java:91) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.exec.spi.JdbcSelectExecutor.list(JdbcSelectExecutor.java:165) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.query.sqm.internal.ConcreteSqmSelectQueryPlan.lambda$new$1(ConcreteSqmSelectQueryPlan.java:152) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.query.sqm.internal.ConcreteSqmSelectQueryPlan.withCacheableSqmInterpretation(ConcreteSqmSelectQueryPlan.java:442) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.query.sqm.internal.ConcreteSqmSelectQueryPlan.performList(ConcreteSqmSelectQueryPlan.java:362) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.query.sqm.internal.QuerySqmImpl.doList(QuerySqmImpl.java:380) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.query.spi.AbstractSelectionQuery.list(AbstractSelectionQuery.java:143) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.query.Query.getResultList(Query.java:120) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution$CollectionExecution.doExecute(JpaQueryExecution.java:130) ~[spring-data-jpa-3.4.5.jar:3.4.5]
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution.execute(JpaQueryExecution.java:93) ~[spring-data-jpa-3.4.5.jar:3.4.5]
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.doExecute(AbstractJpaQuery.java:152) ~[spring-data-jpa-3.4.5.jar:3.4.5]
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.execute(AbstractJpaQuery.java:140) ~[spring-data-jpa-3.4.5.jar:3.4.5]
+	at org.springframework.data.repository.core.support.RepositoryMethodInvoker.doInvoke(RepositoryMethodInvoker.java:170) ~[spring-data-commons-3.4.5.jar:3.4.5]
+	at org.springframework.data.repository.core.support.RepositoryMethodInvoker.invoke(RepositoryMethodInvoker.java:158) ~[spring-data-commons-3.4.5.jar:3.4.5]
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.doInvoke(QueryExecutorMethodInterceptor.java:170) ~[spring-data-commons-3.4.5.jar:3.4.5]
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.invoke(QueryExecutorMethodInterceptor.java:149) ~[spring-data-commons-3.4.5.jar:3.4.5]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184) ~[spring-aop-6.2.6.jar:6.2.6]
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:380) ~[spring-tx-6.2.6.jar:6.2.6]
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119) ~[spring-tx-6.2.6.jar:6.2.6]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184) ~[spring-aop-6.2.6.jar:6.2.6]
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:138) ~[spring-tx-6.2.6.jar:6.2.6]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184) ~[spring-aop-6.2.6.jar:6.2.6]
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:136) ~[spring-data-jpa-3.4.5.jar:3.4.5]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184) ~[spring-aop-6.2.6.jar:6.2.6]
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:223) ~[spring-aop-6.2.6.jar:6.2.6]
+	at jdk.proxy2/jdk.proxy2.$Proxy118.findByPersonIdIn(Unknown Source) ~[na:na]
+	at com.family.tree.media.service.controller.MediaController.getMediaByUsers(MediaController.java:142) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:258) ~[spring-web-6.2.6.jar:6.2.6]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:191) ~[spring-web-6.2.6.jar:6.2.6]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) ~[spring-webmvc-6.2.6.jar:6.2.6]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:986) ~[spring-webmvc-6.2.6.jar:6.2.6]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:891) ~[spring-webmvc-6.2.6.jar:6.2.6]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-6.2.6.jar:6.2.6]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089) ~[spring-webmvc-6.2.6.jar:6.2.6]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979) ~[spring-webmvc-6.2.6.jar:6.2.6]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-6.2.6.jar:6.2.6]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914) ~[spring-webmvc-6.2.6.jar:6.2.6]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590) ~[tomcat-embed-core-10.1.40.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.2.6.jar:6.2.6]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[tomcat-embed-core-10.1.40.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.2.6.jar:6.2.6]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.6.jar:6.2.6]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.2.6.jar:6.2.6]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.6.jar:6.2.6]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.2.6.jar:6.2.6]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.6.jar:6.2.6]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:116) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:398) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:903) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1740) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[na:na]
+
+2025-06-14T11:44:48.325+05:30  INFO 12878 --- [family-tree-medea-service] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-06-14T11:44:48.346+05:30  INFO 12878 --- [family-tree-medea-service] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-06-14T11:44:48.351+05:30  INFO 12878 --- [family-tree-medea-service] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-06-14T11:44:48.355+05:30  INFO 12878 --- [family-tree-medea-service] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-06-14T11:44:48.357+05:30  INFO 12878 --- [family-tree-medea-service] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2025-06-14T11:44:50.013+05:30  INFO 12911 --- [family-tree-medea-service] [main] .t.m.s.FamilyTreeMedeaServiceApplication : Starting FamilyTreeMedeaServiceApplication using Java 21.0.7 with PID 12911 (/Users/mac/Projects/Family Tree/family-duniya-media-service/target/classes started by mac in /Users/mac/Projects/Family Tree/family-duniya-media-service)
+2025-06-14T11:44:50.015+05:30  INFO 12911 --- [family-tree-medea-service] [main] .t.m.s.FamilyTreeMedeaServiceApplication : No active profile set, falling back to 1 default profile: "default"
+2025-06-14T11:44:50.350+05:30  INFO 12911 --- [family-tree-medea-service] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-06-14T11:44:50.376+05:30  INFO 12911 --- [family-tree-medea-service] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 21 ms. Found 1 JPA repository interface.
+2025-06-14T11:44:50.614+05:30  INFO 12911 --- [family-tree-medea-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-06-14T11:44:50.621+05:30  INFO 12911 --- [family-tree-medea-service] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-06-14T11:44:50.621+05:30  INFO 12911 --- [family-tree-medea-service] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-06-14T11:44:50.644+05:30  INFO 12911 --- [family-tree-medea-service] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-06-14T11:44:50.644+05:30  INFO 12911 --- [family-tree-medea-service] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 604 ms
+2025-06-14T11:44:50.714+05:30  INFO 12911 --- [family-tree-medea-service] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-06-14T11:44:50.738+05:30  INFO 12911 --- [family-tree-medea-service] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.13.Final
+2025-06-14T11:44:50.751+05:30  INFO 12911 --- [family-tree-medea-service] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2025-06-14T11:44:50.881+05:30  INFO 12911 --- [family-tree-medea-service] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-06-14T11:44:50.896+05:30  INFO 12911 --- [family-tree-medea-service] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-06-14T11:44:50.953+05:30  INFO 12911 --- [family-tree-medea-service] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@6987a133
+2025-06-14T11:44:50.953+05:30  INFO 12911 --- [family-tree-medea-service] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2025-06-14T11:44:50.971+05:30  WARN 12911 --- [family-tree-medea-service] [main] org.hibernate.orm.deprecation            : HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-06-14T11:44:50.979+05:30  INFO 12911 --- [family-tree-medea-service] [main] org.hibernate.orm.connections.pooling    : HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 14.18
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-06-14T11:44:51.462+05:30  INFO 12911 --- [family-tree-medea-service] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-06-14T11:44:51.927+05:30  INFO 12911 --- [family-tree-medea-service] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-06-14T11:44:52.324+05:30  WARN 12911 --- [family-tree-medea-service] [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-06-14T11:44:52.474+05:30  INFO 12911 --- [family-tree-medea-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-06-14T11:44:52.478+05:30  INFO 12911 --- [family-tree-medea-service] [main] .t.m.s.FamilyTreeMedeaServiceApplication : Started FamilyTreeMedeaServiceApplication in 2.714 seconds (process running for 2.905)
+2025-06-14T11:44:58.266+05:30  INFO 12911 --- [family-tree-medea-service] [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-06-14T11:44:58.267+05:30  INFO 12911 --- [family-tree-medea-service] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-06-14T11:44:58.268+05:30  INFO 12911 --- [family-tree-medea-service] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-06-14T11:44:58.408+05:30 ERROR 12911 --- [family-tree-medea-service] [http-nio-8080-exec-2] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: org.springframework.orm.jpa.JpaSystemException: Unable to access lob stream] with root cause
+
+org.postgresql.util.PSQLException: Large Objects may not be used in auto-commit mode.
+	at org.postgresql.largeobject.LargeObjectManager.open(LargeObjectManager.java:244) ~[postgresql-42.7.5.jar:42.7.5]
+	at org.postgresql.largeobject.LargeObjectManager.open(LargeObjectManager.java:230) ~[postgresql-42.7.5.jar:42.7.5]
+	at org.postgresql.jdbc.AbstractBlobClob.getLo(AbstractBlobClob.java:288) ~[postgresql-42.7.5.jar:42.7.5]
+	at org.postgresql.jdbc.AbstractBlobClob.getBinaryStream(AbstractBlobClob.java:127) ~[postgresql-42.7.5.jar:42.7.5]
+	at org.postgresql.jdbc.PgClob.getCharacterStream(PgClob.java:76) ~[postgresql-42.7.5.jar:42.7.5]
+	at org.hibernate.type.descriptor.java.DataHelper.extractString(DataHelper.java:263) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.type.descriptor.java.StringJavaType.wrap(StringJavaType.java:117) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.type.descriptor.java.StringJavaType.wrap(StringJavaType.java:28) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.type.descriptor.jdbc.ClobJdbcType$1.doExtract(ClobJdbcType.java:57) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.type.descriptor.jdbc.BasicExtractor.extract(BasicExtractor.java:44) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.jdbc.internal.JdbcValuesResultSetImpl.getCurrentRowValue(JdbcValuesResultSetImpl.java:387) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.internal.RowProcessingStateStandardImpl.getJdbcValue(RowProcessingStateStandardImpl.java:152) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.graph.basic.BasicResultAssembler.extractRawValue(BasicResultAssembler.java:54) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.graph.basic.BasicResultAssembler.assemble(BasicResultAssembler.java:60) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.graph.entity.internal.EntityInitializerImpl.extractConcreteTypeStateValues(EntityInitializerImpl.java:1607) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.graph.entity.internal.EntityInitializerImpl.initializeEntityInstance(EntityInitializerImpl.java:1333) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.graph.entity.internal.EntityInitializerImpl.initializeInstance(EntityInitializerImpl.java:1312) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.graph.entity.internal.EntityInitializerImpl.initializeInstance(EntityInitializerImpl.java:97) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.internal.StandardRowReader.coordinateInitializers(StandardRowReader.java:244) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.internal.StandardRowReader.readRow(StandardRowReader.java:141) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.spi.ListResultsConsumer.read(ListResultsConsumer.java:249) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.spi.ListResultsConsumer.consume(ListResultsConsumer.java:201) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.results.spi.ListResultsConsumer.consume(ListResultsConsumer.java:35) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.exec.internal.JdbcSelectExecutorStandardImpl.doExecuteQuery(JdbcSelectExecutorStandardImpl.java:224) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.exec.internal.JdbcSelectExecutorStandardImpl.executeQuery(JdbcSelectExecutorStandardImpl.java:102) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.exec.spi.JdbcSelectExecutor.executeQuery(JdbcSelectExecutor.java:91) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.sql.exec.spi.JdbcSelectExecutor.list(JdbcSelectExecutor.java:165) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.query.sqm.internal.ConcreteSqmSelectQueryPlan.lambda$new$1(ConcreteSqmSelectQueryPlan.java:152) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.query.sqm.internal.ConcreteSqmSelectQueryPlan.withCacheableSqmInterpretation(ConcreteSqmSelectQueryPlan.java:442) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.query.sqm.internal.ConcreteSqmSelectQueryPlan.performList(ConcreteSqmSelectQueryPlan.java:362) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.query.sqm.internal.QuerySqmImpl.doList(QuerySqmImpl.java:380) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.query.spi.AbstractSelectionQuery.list(AbstractSelectionQuery.java:143) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.hibernate.query.Query.getResultList(Query.java:120) ~[hibernate-core-6.6.13.Final.jar:6.6.13.Final]
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution$CollectionExecution.doExecute(JpaQueryExecution.java:130) ~[spring-data-jpa-3.4.5.jar:3.4.5]
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution.execute(JpaQueryExecution.java:93) ~[spring-data-jpa-3.4.5.jar:3.4.5]
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.doExecute(AbstractJpaQuery.java:152) ~[spring-data-jpa-3.4.5.jar:3.4.5]
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.execute(AbstractJpaQuery.java:140) ~[spring-data-jpa-3.4.5.jar:3.4.5]
+	at org.springframework.data.repository.core.support.RepositoryMethodInvoker.doInvoke(RepositoryMethodInvoker.java:170) ~[spring-data-commons-3.4.5.jar:3.4.5]
+	at org.springframework.data.repository.core.support.RepositoryMethodInvoker.invoke(RepositoryMethodInvoker.java:158) ~[spring-data-commons-3.4.5.jar:3.4.5]
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.doInvoke(QueryExecutorMethodInterceptor.java:170) ~[spring-data-commons-3.4.5.jar:3.4.5]
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.invoke(QueryExecutorMethodInterceptor.java:149) ~[spring-data-commons-3.4.5.jar:3.4.5]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184) ~[spring-aop-6.2.6.jar:6.2.6]
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:380) ~[spring-tx-6.2.6.jar:6.2.6]
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119) ~[spring-tx-6.2.6.jar:6.2.6]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184) ~[spring-aop-6.2.6.jar:6.2.6]
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:138) ~[spring-tx-6.2.6.jar:6.2.6]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184) ~[spring-aop-6.2.6.jar:6.2.6]
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:136) ~[spring-data-jpa-3.4.5.jar:3.4.5]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184) ~[spring-aop-6.2.6.jar:6.2.6]
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:223) ~[spring-aop-6.2.6.jar:6.2.6]
+	at jdk.proxy2/jdk.proxy2.$Proxy118.findByPersonIdIn(Unknown Source) ~[na:na]
+	at com.family.tree.media.service.controller.MediaController.getMediaByUsers(MediaController.java:142) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:258) ~[spring-web-6.2.6.jar:6.2.6]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:191) ~[spring-web-6.2.6.jar:6.2.6]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) ~[spring-webmvc-6.2.6.jar:6.2.6]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:986) ~[spring-webmvc-6.2.6.jar:6.2.6]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:891) ~[spring-webmvc-6.2.6.jar:6.2.6]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-6.2.6.jar:6.2.6]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089) ~[spring-webmvc-6.2.6.jar:6.2.6]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979) ~[spring-webmvc-6.2.6.jar:6.2.6]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-6.2.6.jar:6.2.6]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914) ~[spring-webmvc-6.2.6.jar:6.2.6]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590) ~[tomcat-embed-core-10.1.40.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.2.6.jar:6.2.6]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[tomcat-embed-core-10.1.40.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.2.6.jar:6.2.6]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.6.jar:6.2.6]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.2.6.jar:6.2.6]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.6.jar:6.2.6]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.2.6.jar:6.2.6]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.6.jar:6.2.6]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:116) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:398) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:903) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1740) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.40.jar:10.1.40]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[na:na]
+
+2025-06-14T11:46:10.382+05:30  INFO 12911 --- [family-tree-medea-service] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-06-14T11:46:10.390+05:30  INFO 12911 --- [family-tree-medea-service] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-06-14T11:46:10.394+05:30  INFO 12911 --- [family-tree-medea-service] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-06-14T11:46:10.398+05:30  INFO 12911 --- [family-tree-medea-service] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-06-14T11:46:10.400+05:30  INFO 12911 --- [family-tree-medea-service] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2025-06-14T11:46:12.172+05:30  INFO 12957 --- [family-tree-medea-service] [main] .t.m.s.FamilyTreeMedeaServiceApplication : Starting FamilyTreeMedeaServiceApplication using Java 21.0.7 with PID 12957 (/Users/mac/Projects/Family Tree/family-duniya-media-service/target/classes started by mac in /Users/mac/Projects/Family Tree/family-duniya-media-service)
+2025-06-14T11:46:12.173+05:30  INFO 12957 --- [family-tree-medea-service] [main] .t.m.s.FamilyTreeMedeaServiceApplication : No active profile set, falling back to 1 default profile: "default"
+2025-06-14T11:46:12.496+05:30  INFO 12957 --- [family-tree-medea-service] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-06-14T11:46:12.520+05:30  INFO 12957 --- [family-tree-medea-service] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 20 ms. Found 1 JPA repository interface.
+2025-06-14T11:46:12.752+05:30  INFO 12957 --- [family-tree-medea-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-06-14T11:46:12.759+05:30  INFO 12957 --- [family-tree-medea-service] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-06-14T11:46:12.759+05:30  INFO 12957 --- [family-tree-medea-service] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-06-14T11:46:12.783+05:30  INFO 12957 --- [family-tree-medea-service] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-06-14T11:46:12.783+05:30  INFO 12957 --- [family-tree-medea-service] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 585 ms
+2025-06-14T11:46:12.864+05:30  INFO 12957 --- [family-tree-medea-service] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-06-14T11:46:12.885+05:30  INFO 12957 --- [family-tree-medea-service] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.13.Final
+2025-06-14T11:46:12.898+05:30  INFO 12957 --- [family-tree-medea-service] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2025-06-14T11:46:13.053+05:30  INFO 12957 --- [family-tree-medea-service] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-06-14T11:46:13.067+05:30  INFO 12957 --- [family-tree-medea-service] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-06-14T11:46:13.131+05:30  INFO 12957 --- [family-tree-medea-service] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@6987a133
+2025-06-14T11:46:13.132+05:30  INFO 12957 --- [family-tree-medea-service] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2025-06-14T11:46:13.153+05:30  WARN 12957 --- [family-tree-medea-service] [main] org.hibernate.orm.deprecation            : HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-06-14T11:46:13.173+05:30  INFO 12957 --- [family-tree-medea-service] [main] org.hibernate.orm.connections.pooling    : HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 14.18
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-06-14T11:46:13.752+05:30  INFO 12957 --- [family-tree-medea-service] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-06-14T11:46:14.281+05:30  INFO 12957 --- [family-tree-medea-service] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-06-14T11:46:14.684+05:30  WARN 12957 --- [family-tree-medea-service] [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-06-14T11:46:14.836+05:30  INFO 12957 --- [family-tree-medea-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-06-14T11:46:14.840+05:30  INFO 12957 --- [family-tree-medea-service] [main] .t.m.s.FamilyTreeMedeaServiceApplication : Started FamilyTreeMedeaServiceApplication in 2.917 seconds (process running for 3.111)
+2025-06-14T11:46:22.218+05:30  INFO 12957 --- [family-tree-medea-service] [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-06-14T11:46:22.218+05:30  INFO 12957 --- [family-tree-medea-service] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-06-14T11:46:22.219+05:30  INFO 12957 --- [family-tree-medea-service] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms

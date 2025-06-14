@@ -1,9 +1,11 @@
 package com.family.tree.media.service.controller;
 
 import com.family.tree.media.service.entity.PersonDetail;
+import com.family.tree.media.service.model.MediaDto;
 import com.family.tree.media.service.repository.MediaRepository;
 import com.family.tree.media.service.service.S3Service;
 import com.family.tree.media.service.util.ThumbnailUtil;
+import org.apache.tika.Tika;
 import org.springframework.http.*;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;
@@ -33,7 +35,7 @@ public class MediaController {
         this.thumbnailUtil = thumbnailUtil;
     }
     @PostMapping("/upload")
-    public ResponseEntity<String> upload(@RequestParam("file") MultipartFile file,
+    public ResponseEntity<Object> upload(@RequestParam("file") MultipartFile file,
                                          @RequestParam("personId") Long personId,
                                          @RequestParam(value = "description", required = false) String desc) throws IOException {
         try {
@@ -61,9 +63,39 @@ public class MediaController {
             media.setFileThumbnailUrl(thumbnailUrl);
             mediaRepository.save(media);
             logger.info("{} Saved, media={}",methodPrefix,media);
+            MediaDto mediaDto=new MediaDto();
+            mediaDto.setImgUrl(url);
+            mediaDto.setThumbnailUrl(thumbnailUrl);
             logger.info("{} executed in {} ms",methodPrefix,System.currentTimeMillis() - start);
 
-            return ResponseEntity.ok(thumbnailUrl);
+            return ResponseEntity.ok(mediaDto);
+        } catch (IOException e) {
+            logger.error("IOException occurred {} ",e.getMessage());
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body("Upload failed");
+        } catch (Exception e) {
+            logger.error("Exception occurred {} ",e.getMessage());
+            throw new RuntimeException(e);
+        }
+    }
+    @PostMapping("/upload/profile")
+    public ResponseEntity<Object> uploadProfilePic(@RequestParam("file") MultipartFile file,
+                                         @RequestParam("personId") Long personId,
+                                         @RequestParam(value = "description", required = false) String desc) throws IOException {
+        try {
+            long start = System.currentTimeMillis();
+            String methodPrefix="MediaController#uploadProfilePic() ";
+            logger.info("{} personId={}, description={}",methodPrefix,personId,desc);
+
+            String url = s3Service.uploadFile(file);
+            logger.info("{} File upload completed, key={}",methodPrefix,url);
+            String thumbnailUrl=uploadThumbnail(file);
+            MediaDto mediaDto=new MediaDto();
+            mediaDto.setImgUrl(url);
+            mediaDto.setThumbnailUrl(thumbnailUrl);
+            logger.info("{} Thumbnail upload completed, key={}",methodPrefix,thumbnailUrl);
+            logger.info("{} executed in {} ms",methodPrefix,System.currentTimeMillis() - start);
+
+            return ResponseEntity.ok(mediaDto);
         } catch (IOException e) {
             logger.error("IOException occurred {} ",e.getMessage());
             return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body("Upload failed");
@@ -81,9 +113,15 @@ public class MediaController {
             logger.info("{} fileName={}",methodPrefix,fileName);
 
             byte[] fileContent = s3Service.downloadFile(fileName);
+            // Detect MIME type using Apache Tika
+            Tika tika = new Tika();
+            String contentType = tika.detect(fileContent, fileName);
+            if (contentType == null) {
+                contentType = "application/octet-stream";
+            }
 
             HttpHeaders headers = new HttpHeaders();
-            headers.setContentType(MediaType.APPLICATION_OCTET_STREAM);
+            headers.setContentType(MediaType.parseMediaType(contentType));
             headers.setContentDisposition(ContentDisposition.attachment().filename(fileName).build());
             logger.info("{} executed in {} ms",methodPrefix,System.currentTimeMillis() - start);
             return ResponseEntity.ok()
