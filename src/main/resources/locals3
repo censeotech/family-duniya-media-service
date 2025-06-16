@@ -30,4 +30,3 @@ WebUI: http://192.168.1.52:49874 http://127.0.0.1:49874
    Then confirm it works by visiting:
    👉 http://localhost:9000
    Login with minioadmin / minioadmin
-
